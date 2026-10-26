@@ -31,7 +31,7 @@ from datetime import datetime
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # Default base directory (overridable via REPORT_PATH in file/wib_info.csv)
-WIB_QC_BASE_DIR = "/home/bnl-wib/Documents/WIB_QC"
+WIB_QC_BASE_DIR = "/home/dunewib/DUNE_WIB_QC/Test_reports"
 
 
 def _get_base_dir():
