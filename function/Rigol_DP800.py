@@ -28,8 +28,8 @@ class RigolDP800:
     #     idn = self.inst.query("*IDN?").strip()
     #     print(f"✅ Power Supply Connected")
 
-    # def __init__(self, resource="USB0::0x1AB1::0x0E11::DP8C184550857::INSTR", timeout=5000):
-    def __init__(self, resource="USB0::0x1AB1::0x0E11::DP8C184550811::INSTR", timeout=5000):
+    # def __init__(self, resource="USB0::0x1AB1::0x0E11::DP8C282M00336::INSTR", timeout=5000):
+    def __init__(self, resource="USB0::0x1AB1::0x0E11::DP8C282M00336::INSTR", timeout=5000):
         self.rm = pyvisa.ResourceManager()
         # print(self.rm.list_resources())
 
