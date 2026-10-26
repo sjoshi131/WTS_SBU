@@ -6,7 +6,7 @@ WIB_ID,BNL_WIB_V3_I0-1750-1-F_00002
 Foam_Box_ID,https:__apa.dunedb.org_c_cptRuexrjz1RawsMHWWNPp
 SD_IMAGE_PATH,/home/dunewib/DUNE_WIB_QC/Images/production_SD_233.img
 SUDO_PASSWORD,XXXXX
-REPORT_PATH,/home/dunewib/DUNE_WIB_QC/WTS_SBU
+REPORT_PATH,/home/dunewib/DUNE_WIB_QC/Test_reports
 WIB_Network_Upload_Path,
 XILINX_PATH,/home/bnl-wib/2025.2/Vivado_Lab/bin/vivado_lab
 LOCAL_PATH,D:/WIB_QC/DUNE_WIB_QC_Script
