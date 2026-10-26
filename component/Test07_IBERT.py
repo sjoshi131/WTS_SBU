@@ -403,7 +403,7 @@ else:
 
 time.sleep(1) # wait for boot
 
-project_dir = "/home/bnl-wib/Documents/WTS_BNL"
+project_dir = "/home/dunewib/DUNE_WIB_QC/WTS_SBU"
 vivado_path = path.xilinx_path
 print(vivado_path)
 
